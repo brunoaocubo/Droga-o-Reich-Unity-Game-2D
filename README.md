@@ -1,4 +1,4 @@
-# Droga-o-Reich
+# Droga-o-Reich-Unity-Game-2D
 
 Olá!, eu me chamo Bruno Tiago, e neste projeto fiquei responsável pela programação total do jogo.
 
